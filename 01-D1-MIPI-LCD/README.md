@@ -1,0 +1,6 @@
+## 哪吒D1 MIPI LCD 转 JD9852 1 Lane 显示屏
+
+![](D1-MIPI-LCD.png)
+
+[调试帖子-全志在线论坛](https://bbs.aw-ol.com/topic/405/%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%B0%83mipi%E6%8E%A5%E5%8F%A3%E7%9A%84%E6%98%BE%E7%A4%BA%E5%B1%8F-%E9%83%BD%E6%98%AF%E4%BB%80%E4%B9%88%E5%A5%97%E8%B7%AF/7?_=1631200546654)
+
